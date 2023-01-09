@@ -1,0 +1,12 @@
+npm init --y
+
+express
+ npm i express
+
+jasmine
+
+ npm install -D jasmine jasmine-node istanbul jasmine-console-reporter supertest jasmine-supertest
+
+body-parser
+ npm i body-parser
+
